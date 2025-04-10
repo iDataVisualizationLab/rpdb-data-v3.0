@@ -1,0 +1,14 @@
+In an effort to identify the benefits of using optimized aggregate gradation (OAG) in paving concrete, three
+test sections were constructed; each in Wichita Falls (US287 northbound), Fort Worth (SH114B northbound), and
+Dallas (SH121 westbound) Districts. Both normal aggregate gradation (NAG) and OAG sections were placed side
+by side in Wichita Falls project. Only OAG sections were placed in Forth Worth and Dallas projects. Fresh and
+hardened concrete properties of NAG and OAG concretes in Wichita Falls project and OAG concrete in Fort Worth
+and Dallas projects were evaluated. For the evaluation of pavement performance as affected by the use of NAG and
+OAG concretes, efforts were made to measure early-age CRCP performance indicators such as crack spacing and
+crack widths. Since the same cement contents and water-cement ratios were used in NAG and OAG concretes, there
+was little difference in strength-related hardened concrete properties. On the other hand, differences were observed
+in in-situ COTE and drying shrinkage between NAG and OAG concretes, with lower values for OAG concrete.
+Even with lower in-situ COTE and drying shrinkage, more cracks formed in OAG concrete than in NAG concrete
+section, which signifies the effects of other factors such as setting temperatures on cracking behavior of CRCP. It is
+expected that better long-term performance will be achieved with OAG concrete due to the lower values of COTE
+and drying shrinkage. 

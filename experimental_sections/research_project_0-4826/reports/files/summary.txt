@@ -1,0 +1,22 @@
+Fracture toughness (KIC) value at early ages of concrete was used to represent the interfacial bond between
+aggregate and mortar of a variety of coarse aggregates types and concrete mixtures. A fractional factorial design based
+on Taguchi’s orthogonal array using four factors (i.e., aggregate type, w/cm, replacement of ultra-fine fly ash, and
+curing method) was selected to conduct the detailed laboratory study. The statistical analysis indicated the following
+decreasing rank order with respect to the relative importance of each factor to KIC: aggregate type, curing method,
+w/cm, and ultra-fine fly ash content. A comprehensive investigation of aggregate properties relative to physical,
+geometric, and chemical characteristics was conducted. The research findings indicated that the aggregate-mortar
+interfacial bond for a given cement paste was found not to be a simple function of any one of the aggregate properties,
+but a function of all three properties aggregated together. The application of utility theory to the evaluation of overall
+contribution of aggregate properties to the bonding performance of concrete, and feasibility of design combinations
+enables agencies to select the best aggregate type, modify aggregates by blending different aggregates, and optimize
+the design combinations for concrete paving construction, to relieve delamination and further spalling distresses.
+The interfacial fracture energy can be predicted once a design combination is known based on the linear
+relation with both concrete and mortar fracture energy. A fracture mechanics based approach was proposed with the
+facilitation of numerical analysis to predict the occurrence of delamination. The criterion for predicting early age
+delamination occurrence is that delamination occurs when KI > KIC. Through examples of practical design and
+construction methods, this approach is able to assess the probability of delamination occurrence, which will facilitate
+selection and evaluation of the effectiveness of pavement design methods to prevent delamination and spalling
+problems in concrete paving.
+Test sections of both winter and summer were established based on the research finding from laboratory
+investigations, theoretical modeling, and numerical analysis. Future performance of these sections will determine if
+the measures taken to arrest delamination were successful or not. 

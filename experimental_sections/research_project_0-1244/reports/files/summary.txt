@@ -1,0 +1,9 @@
+This report focuses on aggregates used in the construction of continuously reinforced concrete
+pavements (CRCP). Specific chapters address (1) past research regarding aggregates used in asphalt
+concrete paving, (2) field and laboratory investigations of asphalt concrete pavements, and (3) CRCP
+behavior and distress. Also addressed are research activities related to aggregates used in asphalt cement
+concrete pavements. The report reviews such topics as spalling and punchout distresses in continuously
+reinforced and jointed pavements, aggregate shape characterization using fractals, and the determination
+of sawcut depth using fractal analysis. Some of these activities relate directly to improving pavement
+performance, regardless of aggregate type used for construction. Early recommendations based on the
+project's significant findings have already been presented to the Texas Department of Transportation.
